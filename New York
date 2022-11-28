@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+</body>
+<img src="new-york-city.jpg">
+<h1 style="font-size:50px; color:blue;">New York City</h1>
+<p style="font-size:25px; color:aqua"> Cosa visitare a New York</p>
+<body style="background-color:white;"> </body>
+<style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(239, 218, 116);
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: rgb(0, 0, 0);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: rgb(254, 218, 134);
+    }
+    
+    .active {
+      background-color: #f6ecad;
+    }
+    </style>
+<body>
+   <ul>
+<li><a class="active" href="#home">Home</a></li>
+<li><a href="centralpark.html">Central Park</a></li>
+<li><a href="timessquare.html">Times Square</a></li>
+<li><a href="empirestatebuilding.html">Empire State Building</a></li>
+<li><a href="statuadellaliberta.html">Statua della Libertà</a></li>
+    </ul>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city { background-color:rgb(242, 216, 157); color:black; margin:20px; padding:20px; }
+</style>
+</head>
+<style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(239, 218, 116);
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: rgb(0, 0, 0);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: rgb(254, 218, 134);
+    }
+    
+    .active {
+      background-color: #f6ecad;
+    }
+    </style>
+<body>
+    <ul>
+ <li><a href="NewYork.html">Home</a></li>
+ <li><a class="active" href="#">Empire State Building</a></li>
+ <li><a href="timessquare.html">Times Square</a></li>
+ <li><a href="centralpark.html">Central Park</a></li>
+ <li><a href="statuadellaliberta.html">Statua della Liberta'</a></li>
+     </ul>
+ </body>
+<body>
+<body style="background-color:rgb(225, 200, 171)"> 
+<div class="Empire State Building">
+<h2> Empire State Building</h2>
+<h2 style=" color:rgb(219, 35, 35)"> </h2>
+<p> Un grattacielo in stile art deco nella citta' di New York.</p>
+</div>
+</body>
+
+<img src="empirestatebuilding.jpg">
+<i> Cosa sappiamo su questo grattacielo:</i>
+<i style="font-size:large; color:black"> </i>
+<p> Divenuto uno dei maggiori simboli della citta', con i suoi 443 metri di altezza, e' stato l'edificio piu' alto del mondo tra il 1931 e il 1967.>  </p>
+<p style=" font-size:25px; color:blue" > </p>
+<b> Cosa troviamo al suo interno?</b>
+<ol>
+<li> una terrazza panoramica</li>
+<li> spazi abitabili commerciali </li>
+<li> atrio </li>
+<li> spazi di servizio</li>
+</ol>
+<style>
+</style>
+<img src="panoramicaempire.jpg"> 
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<h1 style="font-size:30px; color:green;">Central Park</h1>
+<style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(239, 218, 116);
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: rgb(0, 0, 0);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: rgb(254, 218, 134);
+    }
+    
+    .active {
+      background-color: #f6ecad;
+    }
+    </style>
+<p> Parliamo di un parco di oltre 300 ettari che fa circa 40 milioni di visitatori l'anno. La sopraggiunta e meritata fama, pero, offusca l'enorme fatica che ci e' voluta a trasformare nel "polmone verde" di New York quella che nel XIX secolo era una gigantesca palude. Alla bonifica, infatti, parteciparono migliaia di operai agli ordini di due progettisti, Frederick Law Olmsted e Calvert Vaux.</p>
+<p style="font-size:20px; color:black;"> </p>"
+</head>
+<body>
+    <ul>
+ <li><a href="NewYork.html">Home</a></li>
+ <li><a class="active" href="#">Central Park</a></li>
+ <li><a href="timessquare.html">Times Square</a></li>
+ <li><a href="empirestatebuilding">Empire State Building</a></li>
+ <li><a href="statuadellaliberta.html">Statua della Liberta'</a></li>
+     </ul>
+ </body>
+<body>
+<body style="background-color:cornsilk;"> </body>
+<img src="central-park.jpg"> 
+<p style="color:greenyellow;">All'interno del parco di sono varie attrazioni, alcuni monumenti e luoghi di interesse come per esempio:</p>
+<ol>
+<li> Castello "Belvedere" con vista panomarica sul parco</li>
+<li>il Strawberry Field, area dedicata alla memoria di John Lennon</li>
+<li> Giardino Botanico, colorato d elegante</li>
+<li> Bow Brigde, il ponte piu romantico di New York</li>
+</ol>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<h1 style="color:blueviolet;"> Times Square </h1>
+<style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(239, 218, 116);
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: rgb(0, 0, 0);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: rgb(254, 218, 134);
+    }
+    
+    .active {
+      background-color: #f6ecad;
+    }
+    </style>
+<body>
+    <ul>
+ <li><a href="NewYork.html">Home</a></li>
+ <li><a class="active" href="#">Times Square</a></li>
+ <li><a href="statuadellaliberta.html">Statua della Liberta'</a></li>
+ <li><a href="centralpark.html">Central Park</a></li>
+ <li><a href="empirestatebuilding.html">Empire State Building</a></li>
+     </ul>
+ </body>
+<p>Times Square e' uno dei maggiori incroci di New York, all'intersezione tra sette palazzi e una stazione dell'omonima citta'. Si estende dalla West 42nd Street alla West 47th Street. Times Square e' nota soprattutto per i grandi e numerosi cartelloni pubblicitari animati e digitali.</p>
+<p style="font-size:small; color:plum"> </p>
+<img src="timesquare.jpg" alt="Times Square" style="width: 8pxpx;height: 10pxpx;">
+<body>
+<body style="background-color:blanchedalmond"> </body>
+<p> Cosa sapere sul Times Square? </p>
+<p style="font-size:medium; color:rgb(146, 92, 146)"> </p>
+<ul>
+<li> L'edificio piu' famoso e' One Times Square </li>
+<li>Prende il nome di Times Square nel 1905 quando Adolph S.Ochs, inizialmente conosciuta come Long Acre </li>
+<li> La famosa palla dalle mille luci che scende a capodanno viene tenuta per tutto l'anno all'ultimo piano dell'edificio, quasi 4 metri di diametro e piu' di 5000 kg e controllato dal computer.</li>
+<li> Vengono utilizzati 161 megawatts contemporaneamente all'apice del picco nel quartiere dei teatri</li>
+<li> Quando arriva la mezzanotte del 31 dicembre una tonnellata di coriandoli, confetti, si riversa sulla folla. Sono desideri.</li>
+</ul>
+<img src="balldrop-new-year.jpg" alt="ball drop" style="width:400;height:600">
+</body>
+</head>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<body style="background-color:rgb(248, 225, 194)">
+</body>
+<style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(239, 218, 116);
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: rgb(0, 0, 0);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: rgb(254, 218, 134);
+    }
+    
+    .active {
+      background-color: #f6ecad;
+    }
+    </style>
+<body>
+    <ul>
+ <li><a href="NewYork.html">Home</a></li>
+ <li><a class="active" href="#">Statua della Liberta'</a></li>
+ <li><a href="timessquare.html">Times Square</a></li>
+ <li><a href="centralpark.html">Central Park</a></li>
+ <li><a href="empirestatebuilding.html">Empire State Building</a></li>
+     </ul>
+ </body>
+<b> Statua della Liberta'</b>
+<b style=" color:brown"> </b>
+<p> Uno dei monumenti piu' conosciuti al mondo, situata all'entrata del porto sul fiume Hudson al centro della baia di Manhattan</p>
+<p style="color:black"> </p>
+<img src="statua-liberta.jpg">
+<i>Quale e' il suo significato?</i>
+<i style="font-size:25px; color:black"></i>
+<p>La fiaccola rappresenta il fuoco eterno della liberta', le catene spezzate ai piedi simboleggiano la fine del potere della monarchia, le punte della corona sono i sette mari e i sette continenti e la tavoletta che regge nella mano detsra riporta la data del 4 luglio 1776, la data dell'indipendenza americana.</p>
+<p style="color:black; font-size:25px"> </p>
+<img src="statua-della-liberta.jpg">
+<h1> Perche' e' stata costruita?</h1>
+<h1 style="color:black"></h1>
+<p> Fu donata dalla Francia agli Stati Uniti in occasione dei festeggiamenti per i cento anni della dichiarazione di indipendenza. Data importante perche' segna l'inizio della storia della nazione.</p>
+<p style="color:black"> </p>
+<i>Quando e' stata costruita?</i>
+<i style=" font-size:25px; color:black"> </i>
+<p> Fu costruita a partire dal 1875, a Parigi e successivamente spedita negli Stati Uniti nel 1885. Ci vollero nove anni per completare la costruzione, alla fine dei lavori l'opera contava 350 pezzi.</p>
+<p style="color:black"></p>
+<img src="StatuaLibertaUSa.jpg" style="width:500px;height:600px">
+<mark> Colore originale: </mark>
+<p>La statua e' realizzata in rame ed era di un brillante colore rossastro/marrone, cambio' il suo colore in verde-blu nel corso dei due decenni successivi. </p>
+<p style="font-size:20px; color:black"></p>
+<img src="libertystatue.jpg" style="width:400px;height:400px">
+</head>
+</html>
